@@ -1,0 +1,13 @@
+# Clone your repo (only once)
+git clone https://github.com/Alli-Sarmishta/resume-pdf-generator.git
+cd resume-pdf-generator
+
+# See all commits
+git log --oneline
+
+# Restore code to a specific commit (replace commit hash)
+git checkout <commit-hash>
+
+# Go back to latest main branch
+git checkout main
+git pull origin main
