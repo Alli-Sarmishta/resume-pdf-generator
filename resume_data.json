@@ -1,0 +1,55 @@
+[
+  {
+    "Name": "Alli Sarmishta",
+    "Email": "mallisarmishta@gmail.com",
+    "Phone": "9100557508",
+    "Links": [
+      "www.linkedin.com/in/sarmishtaalli"
+    ],
+    "Summary": "Passionate IT undergraduate skilled in development, leadership, ML, and team projects.",
+    "Skills": {
+      "TechnicalSkills": [
+        "JAVA",
+        "C",
+        "PYTHON",
+        "HTML",
+        "CSS"
+      ],
+      "SoftSkills": [
+        "Problem-Solving",
+        "Teamwork"
+      ]
+    },
+    "Education": [
+      {
+        "Degree": "B.Tech in IT",
+        "Institution": "BVRIT HYDERABAD",
+        "Year": "2022 - 2026",
+        "CGPA": "8.04",
+        "RelevantCoursework": [
+          "DSA",
+          "OOP",
+          "CN"
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "EcoSort App",
+        "Description": "App for smart waste segregation",
+        "Date": "2023",
+        "Technologies": "ML, Android",
+        "Award": "Top 10 Hackathon"
+      }
+    ],
+    "Certifications": [
+      {
+        "certification_name": "AWS Cloud Practitioner",
+        "issuing_organization": "Amazon",
+        "year": "2024"
+      }
+    ],
+    "Experience": [],
+    "TotalYearsOverall": "0"
+  }
+]

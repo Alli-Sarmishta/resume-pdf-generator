@@ -1,0 +1,70 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{parskip}
+
+\titleformat{\section}{\Large\bfseries}{}{0em}{}
+\titlespacing{\section}{0pt}{10pt}{5pt}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{{{ Name }}}} \\
+    \vspace{2pt}
+    \href{mailto:{{ Email }}}{{ Email }} \quad | \quad {{ Phone }} \\
+    \vspace{2pt}
+    \foreach \link in {{ Links }}{ \href{\link}{\link} \quad }
+\end{center}
+
+\vspace{10pt}
+
+\section*{Summary}
+{{ Summary }}
+
+\section*{Skills}
+\textbf{Technical Skills:} {{ TechnicalSkills }} \\
+\textbf{Soft Skills:} {{ SoftSkills }}
+
+\section*{Education}
+\begin{itemize}[leftmargin=*]
+{{#each Education}}
+    \item \textbf{{ Degree }} - {{ Institution }} ({{ Year }})
+    {{#if Achievements}}
+      \begin{itemize}
+      {{#each Achievements}}
+        \item {{ this }}
+      {{/each}}
+      \end{itemize}
+    {{/if}}
+{{/each}}
+\end{itemize}
+
+\section*{Projects}
+\begin{itemize}[leftmargin=*]
+{{#each Projects}}
+    \item \textbf{{ Name }} - {{ Description }} \\
+    \textit{Technologies: {{ Technologies }}}
+    {{#if ProjectURL}}\\\href{ {{ ProjectURL }} }{ {{ ProjectURL }} }{{/if}}
+    {{#if GitHubURL}}\\\href{ {{ GitHubURL }} }{ {{ GitHubURL }} }{{/if}}
+{{/each}}
+\end{itemize}
+
+\section*{Experience}
+\begin{itemize}[leftmargin=*]
+{{#each Experience}}
+    \item \textbf{{ JobTitle }} at {{ Company }} ({{ Duration }}) \\
+    {{ Description }}
+{{/each}}
+\end{itemize}
+
+\section*{Certifications}
+\begin{itemize}[leftmargin=*]
+{{#each Certifications}}
+    \item \textbf{{ CertificationName }} - {{ IssuingOrganization }} ({{ Year }})
+{{/each}}
+\end{itemize}
+
+\end{document}
+

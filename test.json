@@ -1,0 +1,55 @@
+{
+  "userId": "aarushi01",
+  "job": {
+    "id": "job123",
+    "title": "Software Engineer",
+    "company": "Google",
+    "description": "Develop scalable backend systems."
+  },
+  "Name": "Aarushi Kapoor",
+  "Email": "aarushi.kapoor@example.com",
+  "Phone": "9876543210",
+  "Links": [
+    "linkedin.com/in/aarushi",
+    "github.com/aarushikapoor"
+  ],
+  "Summary": "Motivated full-stack developer.",
+  "Skills": {
+    "TechnicalSkills": ["Python", "JavaScript", "React", "Flask"],
+    "SoftSkills": ["Teamwork", "Communication"]
+  },
+  "Education": [
+    {
+      "Degree": "B.Tech in Computer Science",
+      "Institution": "IIT Bombay",
+      "Year": "2019 - 2023",
+      "CGPA": "9.2",
+      "Achievements": ["Top 5% in class", "Dean’s List"],
+      "RelevantCoursework": ["DSA", "OS", "DBMS"]
+    }
+  ],
+  "Experience": [
+    {
+      "job_title": "Backend Intern",
+      "company": "Amazon",
+      "duration": "3 months",
+      "description": "Built REST APIs using Flask"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Task Tracker App",
+      "Date": "2023",
+      "Description": "A productivity app to manage daily tasks.",
+      "Technologies": "React, Firebase"
+    }
+  ],
+  "Certifications": [
+    {
+      "certification_name": "AWS Certified Developer",
+      "issuing_organization": "Amazon",
+      "year": "2023"
+    }
+  ]
+}
+

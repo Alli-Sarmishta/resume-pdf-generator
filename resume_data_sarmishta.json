@@ -1,0 +1,106 @@
+[
+  {
+    "Certifications": [],
+    "Education": [
+      {
+        "CGPA": "8.04",
+        "Degree": "B.Tech in Information Technology",
+        "Institution": "BVRIT HYDERABAD College of Engineering for Women",
+        "RelevantCoursework": [
+          "Object Oriented Programming",
+          "Databases",
+          "Discrete Maths",
+          "Computer Networks",
+          "Data Structures",
+          "Operating Systems",
+          "Machine Learning",
+          "Computer Organisation and Processors",
+          "IOT"
+        ],
+        "Year": "Nov 2022 - Jul 2026"
+      },
+      {
+        "Achievements": [
+          "YUVA SANGHARSH - Finalist and top 30 Nationwide"
+        ],
+        "Degree": "12th Standard",
+        "Institution": "DAV PUBLIC SCHOOL | CBSE",
+        "Percentage": "80.2%",
+        "Year": "Jun 2020 - Mar 2022"
+      },
+      {
+        "Achievements": [
+          "DAV SOUTH ZONE CHAMPIONS (Dance, Basketball)",
+          "INTER-SCHOOL CHAMPIONS - Mock Parliament, Mime",
+          "Represented the South Zone in DAV Nationals",
+          "Participated in National Olympiads"
+        ],
+        "Degree": "10th Standard",
+        "Institution": "DAV PUBLIC SCHOOL | CBSE",
+        "Percentage": "83.8%",
+        "Year": "March 2020"
+      }
+    ],
+    "Email": "Mallisarmishta@gmail.com",
+    "Experience": [],
+    "Links": [
+      "www.linkedin.com/in/sarmishtaalli"
+    ],
+    "Name": "Alli Sarmishta",
+    "Phone": "9100557508",
+    "Projects": [
+      {
+        "Award": "Finalist - GreenBiz Hackathon",
+        "Date": "November 2023",
+        "Description": "Implemented an Android app for smart waste collection...",
+        "Name": "Waste Segregation Android App (EcoSort)",
+        "Technologies": "ML, Android"
+      },
+      {
+        "Date": "JUNE 2024",
+        "Description": "Created a ML model to predict reselling bike prices...",
+        "Name": "Price Prediction of Reselling Bikes (Using ML)",
+        "Technologies": "Selenium, Azure, Postman"
+      },
+      {
+        "Date": "August 2023",
+        "Description": "Designed a Vexed Puzzle game using Python and Tkinter...",
+        "Name": "Vexed Game",
+        "Technologies": "Python, Tkinter"
+      }
+    ],
+    "ResumeText": "\nName: Alli Sarmishta\nEmail: Mallisarmishta@gmail.com\nPhone: 9100557508\n\nTechnical Skills: JAVA, C, PYTHON, HTML, CSS, Wordpress, SQL, Tableau, Selenium, Microsoft Excel, Powerpoint, Git, Data Structures, Algorithms, OOPs, SDLC, UML Diagrams\nSoft Skills: Problem-Solving, Teamwork, Project Management, Adaptability, Critical Thinking\n\nEducation:\n- B.Tech in Information Technology at BVRIT HYDERABAD College of Engineering for Women (Nov 2022 - Jul 2026)\n- 12th Standard at DAV PUBLIC SCHOOL | CBSE (Jun 2020 - Mar 2022)\n- 10th Standard at DAV PUBLIC SCHOOL | CBSE (March 2020)\n\nProjects:\n- Waste Segregation Android App (EcoSort): Implemented an Android app for smart waste collection... using ML, Android\n- Price Prediction of Reselling Bikes (Using ML): Created a ML model to predict reselling bike prices... using Selenium, Azure, Postman\n- Vexed Game: Designed a Vexed Puzzle game using Python and Tkinter... using Python, Tkinter\n\nExperience:\n\n\nCertifications:\nLinks: www.linkedin.com/in/sarmishtaalli\nSummary: Passionate IT undergraduate skilled in development, leadership, ML, and team projects.\nTotal Experience: 0 years",
+    "Skills": {
+      "SoftSkills": [
+        "Problem-Solving",
+        "Teamwork",
+        "Project Management",
+        "Adaptability",
+        "Critical Thinking"
+      ],
+      "TechnicalSkills": [
+        "JAVA",
+        "C",
+        "PYTHON",
+        "HTML",
+        "CSS",
+        "Wordpress",
+        "SQL",
+        "Tableau",
+        "Selenium",
+        "Microsoft Excel",
+        "Powerpoint",
+        "Git",
+        "Data Structures",
+        "Algorithms",
+        "OOPs",
+        "SDLC",
+        "UML Diagrams"
+      ]
+    },
+    "SubmittedBy": "chandrikavedula@gmail.com",
+    "Summary": "Passionate IT undergraduate skilled in development, leadership, ML, and team projects.",
+    "TotalYearsOverall": "0",
+    "_id": "684589be479220e92a1ff153"
+  }
+]

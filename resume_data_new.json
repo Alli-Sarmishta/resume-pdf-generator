@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "New Candidate",
+    "Email": "newemail@example.com",
+    "Phone": "1234567890",
+    "Links": ["https://linkedin.com/in/newprofile"],
+    "Summary": "A dedicated software engineer...",
+    "Skills": {
+      "TechnicalSkills": ["C++", "Java", "Python"],
+      "SoftSkills": ["Leadership", "Communication"]
+    },
+    "Education": [
+      {
+        "Degree": "B.E. in Computer Science",
+        "Institution": "ABC Institute of Tech",
+        "Year": "2020 - 2024",
+        "CGPA": "8.9"
+      }
+    ],
+    "Experience": [
+      {
+        "job_title": "Backend Developer Intern",
+        "company": "TechSoft",
+        "duration": "Jan 2024 – May 2024",
+        "description": "Worked on REST APIs and database schema design."
+      }
+    ],
+    "TotalYearsOverall": "0.5 years",
+    "Projects": [
+      {
+        "Name": "Inventory Tracker",
+        "Date": "Feb 2024",
+        "Description": "Built a system to manage stock inventory with alerts.",
+        "Technologies": "React, Node.js, MongoDB"
+      }
+    ],
+    "Certifications": [
+      {
+        "certification_name": "AWS Certified Developer",
+        "issuing_organization": "Amazon",
+        "year": "2023"
+      }
+    ]
+  }
+]
+

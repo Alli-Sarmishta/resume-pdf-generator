@@ -1,0 +1,33 @@
+{
+  "Name": "Alli Sarmishta",
+  "Email": "mallisarmishta@gmail.com",
+  "Phone": "9100557508",
+  "Links": ["www.linkedin.com/in/sarmishtaalli"],
+  "Summary": "Passionate IT undergraduate skilled in development, leadership, ML, and team projects.",
+  "Skills": {
+    "TechnicalSkills": ["JAVA", "Python", "SQL", "Tableau", "Git"],
+    "SoftSkills": ["Teamwork", "Problem Solving", "Leadership"]
+  },
+  "Education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "BVRIT Hyderabad",
+      "year": "2022–2026",
+      "achievements": ["8.04 CGPA"],
+      "grade_type": "CGPA",
+      "value": "8.04"
+    }
+  ],
+  "Experience": [],
+  "Projects": [
+    {
+      "project_name": "EcoSort",
+      "description": "An ML-based smart waste collection app.",
+      "technologies_used": "ML, Android",
+      "project_url": "https://github.com/sarmishta/eco-sort",
+      "github_url": "https://github.com/sarmishta/eco-sort"
+    }
+  ],
+  "Certifications": []
+}
+
