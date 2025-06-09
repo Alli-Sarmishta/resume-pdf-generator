@@ -11,3 +11,22 @@ git checkout <commit-hash>
 # Go back to latest main branch
 git checkout main
 git pull origin main
+
+
+
+
+
+
+cd ~/Desktop/resume-test
+source venv/bin/activate       
+python3 app.py
+
+
+Open a new terminal tab/window and run:
+cd ~/Desktop/resume-test
+curl -X POST http://127.0.0.1:5000/generate_resume \
+-H "Content-Type: application/json" \
+-d @test.json
+ls generated_resumes/
+open generated_resumes/aarushi01_job123.pdf
+
