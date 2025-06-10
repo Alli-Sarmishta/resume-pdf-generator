@@ -16,6 +16,7 @@ git pull origin main
 
 
 
+RESUME-PDF-GENERATOR-TEST
 
 cd ~/Desktop/resume-test
 source venv/bin/activate       
